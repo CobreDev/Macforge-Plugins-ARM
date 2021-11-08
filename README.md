@@ -1,2 +1,2 @@
-# Macforge-Plugins---ARM
+# Macforge-Plugins-ARM
 Macforge plugins recompiled for Apple Silicon
